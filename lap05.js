@@ -1,5 +1,5 @@
-ver Number = 11;
-ver month = "October";
+ver Number = 16;
+ver month = "December";
 ver OK = true;
 ver NO = false; 
 
@@ -8,26 +8,26 @@ ver NO = false;
 if (number == 11){
     alert(LUCKY DAY!);
 } else {
-    alert(NOT a lucky day!);
+    alert(Today Is Your Lucky Day!);
 }
 
 if (number < 11){
     alert (Almost Here!);
 } else {
-    alert (Till Next Year!);
+    alert (Is it your birthday? check the cake section!);
 }
 
 if (month == october) {
     alert (MY MONTH);
 } else {
-    alert(NOT MY MONTH);
+    alert(Every month is a new adveture and every day is a new challenge);
 }
 
 if (OK){
-    alert("OKAY")
+    alert("Lets git started")
 }
 
 if (no){
-    alert ("NO")
+    alert ("lets git learning")
 }
 
