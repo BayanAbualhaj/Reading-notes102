@@ -1,26 +1,26 @@
-ver Number = 16;
-ver month = "December";
-ver OK = true;
-ver NO = false; 
+ver number =16;
+ver month="December";
+ver OK=true;
+ver NO=false; 
 
 // its about my birthday! 
 
 if (number == 11){
-    alert(IT MY LUCKY DAY!);
+    alert("IT MY LUCKY DAY!");
 } else {
-    alert(Today Is Your Lucky Day!);
+    alert("Today Is Your Lucky Day!");
 }
 
 if (number < 11){
-    alert (Almost Here!);
+    alert ("Almost Here!");
 } else {
-    alert (Is it your birthday?check the cake section!);
+    alert ("Is it your birthday?check the cake section!");
 }
 
 if (month == october) {
     alert (MY MONTH);
 } else {
-    alert(Every month is a new adveture and every day is a new challenge);
+    alert("Every month is a new adveture and every day is a new challenge");
 }
 
 if (OK){
