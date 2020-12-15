@@ -14,7 +14,7 @@ if (number == 11){
 if (number < 11){
     alert (Almost Here!);
 } else {
-    alert (Is it your birthday? check the cake section!);
+    alert (Is it your birthday?check the cake section!);
 }
 
 if (month == october) {
