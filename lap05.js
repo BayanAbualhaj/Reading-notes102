@@ -6,7 +6,7 @@ ver NO = false;
 // its about my birthday! 
 
 if (number == 11){
-    alert(LUCKY DAY!);
+    alert(IT MY LUCKY DAY!);
 } else {
     alert(Today Is Your Lucky Day!);
 }
@@ -24,10 +24,10 @@ if (month == october) {
 }
 
 if (OK){
-    alert("Lets git started")
+    alert("Lets get started")
 }
 
 if (no){
-    alert ("lets git learning")
+    alert ("lets get learning")
 }
 
